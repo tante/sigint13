@@ -12,6 +12,15 @@
 
 ---
 
+# Regulating technology and data use
+
+# Presenter Notes
+
+* Subtitle
+* Talk: How should we regulate tech and data?
+
+---
+
 # Regulation
 
 # Presenter Notes
@@ -31,6 +40,40 @@
 
 ---
 
+# Definition 
+
+.fx: bigtext
+
+"Regulation creates, limits, or constrains a right, creates or limits a duty, or allocates a responsibility."
+
+# Presenter Notes
+
+* creating rights? Hellyeah!
+* But the rest? Meh to Boooo!
+
+---
+
+# Why regulate?
+
+* Protection
+* "General Will"
+* Interest Group transfers
+* Irreversibility
+* ...
+
+# Presenter Notes
+
+* Protecting weaker entities
+* "General WilL" vs. the "Will of all" (Rousseau)
+* Transfers as in redistribute wealth
+* Irreversibility: "We only borrowed the world from our kids"
+* There are more but these are key
+
+---
+
+
+
+---
 
 # Discuss
 
