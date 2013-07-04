@@ -5,11 +5,48 @@
 # tante
 
 * blog [http://tante.cc](http://tante.cc)
-* twitter [@tante](http://the-gay-bar.com)
+* twitter [@tante](http://twitter.com/tante)
 * scientist
 * likes monkeys 
 <img src="images/tante.jpg" style="float:right">
 
 ---
 
+# Regulation
+
+# Presenter Notes
+
+* Not a popular topic really
+* You tend to piss someone off
+
+---
+
+# Examples of Regulation
+
+[Bild Waffen, Pillen, Economy]
+
+# Presenter Notes
+
+* Examples of regulation (amonst others)
+
+---
+
+
+# Discuss
+
+# Presenter Notes
+
+- Vielen Dank für die Aufmerksamkeit
+- Whaddaya think?
+
+---
+
+* Slides:
+    * [http://tante.cc/talks/sigint13/](http://tante.cc/talks/sigint13)
+    * [https://github.com/tante/sigint13](https://github.com/tante/sigint13)
+
+* Contact:
+    * [http://twitter.com/tante](@tante)
+    * [mailto:tante@tante.cc](tante@tante.cc)
+    * tante@jabber.org
 
