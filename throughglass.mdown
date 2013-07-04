@@ -140,6 +140,8 @@ But mostly
 
 # Google GLΛSS
 
+![Google Glass](images/googleglass.jpeg)
+
 # Presenter Notes
 
 * April 4th 2012 first concept video
