@@ -91,6 +91,109 @@ But mostly
 
 ---
 
+# Examples of regulation of tech
+
+* guns
+* cars (you may only use them after training)
+* nuclear power plants
+
+* Bad example: German "Hacker Paragraph"
+
+# Presenter Notes
+
+* they do mostly work
+
+---
+
+# The Hacker Paragraph
+
+# Presenter Notes
+
+* §202c
+* Punishment up tp one year
+* for giving access or distributing "Hacker Tools"
+* We know it's stupid, but what's the actual reason?  
+
+---
+
+# Dual Use
+
+# Presenter Notes
+
+* Technologies that have a bias can be regulated quite well
+    * guns
+* Technologies with dual use way worse
+    * knives
+    * hacker tools
+
+---
+
+# Regulation is hard, why are we even speaking about this shit?
+
+# Presenter notes
+
+* Why not  do something nice?
+* Well it's Google's fault
+
+
+---
+
+# Google GLΛSS
+
+# Presenter Notes
+
+* April 4th 2012 first concept video
+* Before anyone had any specs we had an outcry
+* Glassholes
+* "Gargoyles" (Snow Crash, Neil Stephenson)
+---
+
+# No Glass Zone
+
+[Bild]
+
+# Presenter Notes
+
+* Was in fact a publicity stunt
+* but resonated quite well
+* "Glass on the toilet?"
+
+---
+
+# Playing catch-up
+
+# Presenter Notes
+
+* This approach has a big problem
+* Whenever you regulte a tech like this you play catch up
+* small change: New Product
+
+---
+
+# Some people realized that
+
+---
+
+# Stop Cyborgs
+
+[Bild]
+
+# Presenter Notes
+
+* Smarter
+* Broader Approach (at least in name)
+* Pointed out a big problem
+
+---
+
+
+--- 
+
+# 
+
+---
+
+
 # Discuss
 
 # Presenter Notes
