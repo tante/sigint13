@@ -170,7 +170,7 @@ But mostly
 * "Gargoyles" (Snow Crash, Neil Stephenson)
 ---
 
-# No Glass Zone
+# No GLΛSS Zone
 
 [Bild]
 
@@ -324,11 +324,73 @@ But mostly
 
 ---
 
-# Data is our world
+# Data is our access to the world
 
 # Presenter Notes
 
+* Regulating data needs to be done very carefully
+    * we'd never allow "You must not look at red things"
+* Data is in the end what allows us to make decisions
+* Data is the base for every thought
+
+---
+
+# Consistency
+
+# Presenter Notes
+
+* One of the apsects for good regulation
+* "natural" vs. "digital" perception becomes more and more arbitrary
+* digital contact lenses, digital hearing aids
 * 
+
+---
+# Let's regulate GLΛSS  
+
+# Presenter Notes
+
+* It was the hook for this talk so let's do it
+* given all we know now, how should we regulate glass?
+
+---
+
+# GLΛSS rules (legal)
+
+.fx: bigtext
+
+You may not **publish** video or audio recordings of others without explicit **consent**. <br>(unless it's a public situation).
+
+# Presenter Notes
+
+* consistent
+* does not overregulate a person's perception
+* gives protection to people who don't want their data published
+* Everything else would be overreaching by the government
+* (uploading data to backup services is not publication)
+
+---
+# GLΛSS rules (social)
+
+* Don't be an ass. 
+* If people ask you to deactivate them, do so. (see 1)
+* Be transparent with what you do
+* Respect your fellow earthlings
+* Don't be an ass.
+
+# Presenter Notes
+
+* Try to see the needs of others
+* Their wishes might not be rational, but who cares
+* Don't annoy anyone without a very good reason
+    * Be prepared to get some flak for it
+
+---
+
+# Final thoughts
+
+* regulation seems simple but tends to go overboard
+* GLΛSS is nothing new, it just makes something visible
+* Cyborgisation has been going on for ages and gains more speed
 
 ---
 
