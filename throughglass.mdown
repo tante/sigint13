@@ -132,6 +132,23 @@ But mostly
 
 ---
 
+# What's good regulation?
+
+* As small as possible
+* Solves a real problem
+* Consistent
+* Precise
+
+# Presenter Notes
+
+* It's always a limitation so let's not overuse it
+* It needs a clear problem to address
+* It has to fit in with the rest of the rules
+    * Or it's hard to follow/understand/legitimize
+* It needs to be very clear what it forbids/regulates
+* always hard to find middle ground
+---
+
 # Regulation is hard, why are we even speaking about this shit?
 
 # Presenter notes
@@ -211,7 +228,7 @@ But mostly
 
 --- 
 
-# "Eigentor"
+# Backfire
 
 # Presenter Notes
 
@@ -266,7 +283,8 @@ But mostly
 * Your mind "runs" on hardware (Body and Brain)
 * How do you access the world?
     * Your hardware creates data from the world (somehow)
-* That data often lies
+    * That data often lies
+* "You" only have data
 
 ---
 
@@ -304,6 +322,13 @@ But mostly
     * 0111010100 => JPG
 * We transform information to knowledge by integrating it in our mind
 
+---
+
+# Data is our world
+
+# Presenter Notes
+
+* 
 
 ---
 
