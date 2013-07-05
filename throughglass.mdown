@@ -247,33 +247,6 @@ But mostly
 # Presenter Notes
 
 * Naaa, that isn't right
-
----
-
-# Data is the **representation** of<br> a part of **reality**.
-
-# Presenter Notes
-
-* Data codifies aspects
-* Names, Age, color
-* Can all be expressed as data
-
----
-
-# Data is nothing without Interpretation
-
-# Presenter Notes
-
-* What is a "33"? An age? A length? A price?
-
----
-
-# Data is not a new technological thing
-
-# Presenter Notes
-
-* Philosophy has dealt with it for quite a while
-
 ---
 
 # Short philosophical detour 
@@ -304,6 +277,32 @@ But mostly
 * And we're back on track
 
 ---
+
+# Data is the **representation** of<br> a part of **reality**.
+
+# Presenter Notes
+
+* Data codifies aspects
+* Names, Age, color
+* Can all be expressed as data
+
+---
+
+# Data is nothing without Interpretation
+
+# Presenter Notes
+
+* What is a "33"? An age? A length? A price?
+
+---
+
+# Data -> Information -> Knowledge
+
+# Presenter Notes
+
+* We transform Data through Interpretation into Information
+    * 0111010100 => JPG
+* We transform information to knowledge by integrating it in our mind
 
 
 ---
