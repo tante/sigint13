@@ -32,7 +32,7 @@
 
 # Examples of Regulation
 
-[Bild Waffen, Pillen, Economy]
+![Examples of regulation](images/regulationexamples.png)
 
 # Presenter Notes
 
@@ -172,7 +172,7 @@ But mostly
 
 # No GLΛSS Zone
 
-[Bild]
+![No Glass Zone](images/noglasszone.png)
 
 # Presenter Notes
 
@@ -202,7 +202,7 @@ But mostly
 
 # Stop Cyborgs
 
-[Bild]
+![Stop Cyborgs](images/stopcyborgs.jpg)
 
 # Presenter Notes
 
