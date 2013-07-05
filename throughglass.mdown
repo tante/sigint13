@@ -73,8 +73,11 @@
 
 # Who regulates?
 
-* "the Mainstream" (Social norms)
-* Trade associations etc.
+* "the Mainstream" 
+    * (Social norms)
+* Trade associations
+* Contracts
+* etc. 
 
 But mostly
 
@@ -93,8 +96,8 @@ But mostly
 
 # Examples of regulation of tech
 
-* guns
-* cars (you may only use them after training)
+* guns/weapons
+* cars
 * nuclear power plants
 
 * Bad example: German "Hacker Paragraph"
@@ -102,6 +105,7 @@ But mostly
 # Presenter Notes
 
 * they do mostly work
+* mostly 
 
 ---
 
@@ -134,7 +138,6 @@ But mostly
 
 * Why not  do something nice?
 * Well it's Google's fault
-
 
 ---
 
@@ -196,7 +199,7 @@ But mostly
 
 .fx: bigtext
 
-"A cyborg, short for <b>cyb</b>ernetic <b>org</b>anism,<br> is a being<br> with **both** **organic** and **cybernetic** parts."
+"A cyborg, short for <br><b>cyb</b>ernetic <b>org</b>anism,<br> is a being with **both**<br> **organic** and **cybernetic** parts."
 <span style="font-size:25px">(Wikipedia)</span>
 
 # Presenter Notes
@@ -217,13 +220,33 @@ But mostly
 
 ---
 
-# "But we are not regulating **devices** we are regulating the gathering and processing of **data**"
+# "But we are not *really* regulating **devices** we are regulating the gathering and processing of **data**"
 
 # Presenter Notes
 
+* Defense
+* People know that regulating devices is hard (dual use)
+* In the glass case it's about what people cando with it
 
 ---
 
+# What is data?
+
+# Presenter Notes
+* we know tech
+* we know what works and what doesn't
+* So is data regulated like tech?
+* What is data?
+
+---
+
+# Data
+
+.fx: bigtext
+
+Data is the **representation** of<br> a part of **reality**.
+
+---
 
 # Discuss
 
