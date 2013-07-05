@@ -240,11 +240,71 @@ But mostly
 
 ---
 
-# Data
+# Data == Cyborg? 
 
-.fx: bigtext
+[Bild Data Star Trek]
 
-Data is the **representation** of<br> a part of **reality**.
+# Presenter Notes
+
+* Naaa, that isn't right
+
+---
+
+# Data is the **representation** of<br> a part of **reality**.
+
+# Presenter Notes
+
+* Data codifies aspects
+* Names, Age, color
+* Can all be expressed as data
+
+---
+
+# Data is nothing without Interpretation
+
+# Presenter Notes
+
+* What is a "33"? An age? A length? A price?
+
+---
+
+# Data is not a new technological thing
+
+# Presenter Notes
+
+* Philosophy has dealt with it for quite a while
+
+---
+
+# Short philosophical detour 
+
+# Presenter Notes
+
+* Don't worry it won't hurt
+
+
+---
+
+# The mind, the body and the world
+
+# Presenter Notes
+
+* You are your mind (software)
+* Your mind "runs" on hardware (Body and Brain)
+* How do you access the world?
+    * Your hardware creates data from the world (somehow)
+* That data often lies
+
+---
+
+# End Detour
+
+# Presenter Notes
+
+* And we're back on track
+
+---
+
 
 ---
 
