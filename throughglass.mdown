@@ -259,7 +259,7 @@ But mostly
 
 # Data == Cyborg? 
 
-[Bild Data Star Trek]
+![Commander Data](images/data.jpg)
 
 # Presenter Notes
 
