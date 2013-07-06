@@ -204,7 +204,7 @@ But mostly the **Government**
 
 * April 4th 2012 first concept video
 * Before anyone had any specs we had an outcry
-* Glassholes
+* "Glassholes"
 * "Gargoyles" (Snow Crash, Neil Stephenson)
 ---
 
@@ -250,6 +250,23 @@ But mostly the **Government**
 
 ---
 
+# For the record: GLΛSS provides nothing new, just makes it visible.
+
+# Presenter Notes
+
+* each smartphone can record the same things
+* for 100€ you get sunglasses with HD cameras and 32GB of storage
+
+---
+
+# Let's get back to cyborgs
+
+# Presenter Notes
+
+* I love saying that
+
+---
+
 # Cyborgs
 
 .fx: bigtext
@@ -272,6 +289,7 @@ But mostly the **Government**
 
 * Now we basically declared technological devices parts of us
 * that makes regulation hard
+    * prohibiting in electronics what is allowed in bio
 
 ---
 
@@ -281,7 +299,8 @@ But mostly the **Government**
 
 * Defense
 * People know that regulating devices is hard (dual use)
-* In the glass case it's about what people cando with it
+* In the glass case it's about what people can do with it
+    * surveillance etc
 
 ---
 
@@ -358,6 +377,7 @@ But mostly the **Government**
 
 * We transform Data through Interpretation into Information
     * 0111010100 => JPG
+    * sometimes we make a mistake (wave cryptocat)
 * We transform information to knowledge by integrating it in our mind
 
 ---
@@ -380,7 +400,7 @@ But mostly the **Government**
 * One of the apsects for good regulation
 * "natural" vs. "digital" perception becomes more and more arbitrary
 * digital contact lenses, digital hearing aids
-* 
+* "mental exoslkeleton"
 
 ---
 # Let's regulate GLΛSS  
@@ -410,9 +430,10 @@ You may not **publish** video or audio recordings of others without explicit **c
 # GLΛSS rules (social)
 
 * Don't be an ass. 
-* If people ask you to deactivate them, do so. (see 1)
+* If people ask you to deactivate them, do so.
 * Be transparent with what you do
 * Respect your fellow earthlings
+* Don't assume
 * Don't be an ass.
 
 # Presenter Notes
@@ -436,7 +457,7 @@ You may not **publish** video or audio recordings of others without explicit **c
 
 # Presenter Notes
 
-- Vielen Dank für die Aufmerksamkeit
+- thanks for listening
 - Whaddaya think?
 
 ---
