@@ -50,7 +50,7 @@
 
 .fx: bigtext
 
-"Regulation creates, limits, or constrains a right, creates or limits a duty, or allocates a responsibility."
+"Regulation creates, limits, or constrains a **right**, creates or limits a **duty**, or allocates a **responsibility**."
 
 # Presenter Notes
 
@@ -79,24 +79,43 @@
 
 # Who regulates?
 
+<img src="images/regulations.jpg" style="float:right">
+
 * "the Mainstream" 
     * (Social norms)
 * Trade associations
 * Contracts
 * etc. 
 
-But mostly
+But mostly the **Government**
 
-* The Government
 
 # Presenter Notes
 
 * What you can do without punishment
 * Treaties and whatnot
+* Every community/country has sort of its own approach/flavour
+    * (Gun laws in Germany vs. Gun laws in the US)
+    * Also more general: regulatory or libertarian
 
 ---
 
 # Regulation is about **power**
+
+# Presenter Notes
+
+* The power to enforce a certain behavior
+* Or punish certain offenses/misbehaviors
+
+---
+
+# Regulation is everywhere
+
+# Presenter Notes
+
+* the law transcends every aspect of life
+* social norms as well
+* But today we look at a certain aspect of regulation
 
 ---
 
@@ -111,7 +130,9 @@ But mostly
 # Presenter Notes
 
 * they do mostly work
-* mostly 
+* many have evolved over a long while
+* only mostly
+* so why is it so hard?
 
 ---
 
@@ -119,22 +140,33 @@ But mostly
 
 # Presenter Notes
 
-* §202c
+* §202c StGb
 * Punishment up tp one year
 * for giving access or distributing "Hacker Tools"
 * We know it's stupid, but what's the actual reason?  
 
 ---
 
-# Dual Use
+# "Dual Use"
 
 # Presenter Notes
 
+* (not exactly, dual use is about military and peaceful)
 * Technologies that have a bias can be regulated quite well
     * guns
 * Technologies with dual use way worse
     * knives
     * hacker tools
+
+---
+
+# Regulation is hard
+
+# Presenter Notes
+
+* Many of not most tech objects are not simple
+* Overregulation is bad (Hacker Paragraph)
+* Under regulation can be bad as well (US gun laws)
 
 ---
 
