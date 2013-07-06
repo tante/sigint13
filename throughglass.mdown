@@ -1,4 +1,4 @@
-# Through the Google Glass and what Malice Found There
+# Through the Google GlΛss and what Malice Found There
 
 ---
 
@@ -175,7 +175,8 @@ But mostly the **Government**
 * As small as possible
 * Solves a real problem
 * Consistent
-* Precise
+* Precise 
+    * (but too precise)
 
 # Presenter Notes
 
@@ -206,6 +207,25 @@ But mostly the **Government**
 * Before anyone had any specs we had an outcry
 * "Glassholes"
 * "Gargoyles" (Snow Crash, Neil Stephenson)
+
+---
+
+# Criticism 
+
+* Surveillance 
+    * Camera
+    * Microphone
+* Google
+    * Instant upload
+    * potentially: face recognition
+* Loss of trust and privacy
+
+# Presenter Notes
+* Constant potential recording
+* Google is a company that has its own interests
+    * collects a lot of data
+* Nobody would feel safe anymore
+
 ---
 
 # No GLΛSS Zone
@@ -214,10 +234,9 @@ But mostly the **Government**
 
 # Presenter Notes
 
-* Was in fact a publicity stunt
 * but resonated quite well
 * "Glass on the toilet?"
-
+* Was in fact a publicity stunt
 ---
 
 # Playing catch-up
@@ -246,6 +265,7 @@ But mostly the **Government**
 
 * Smarter
 * Broader Approach (at least in name)
+* "Butlerian Djihad"
 * Pointed out a big problem
 
 ---
@@ -309,7 +329,8 @@ But mostly the **Government**
 # Presenter Notes
 * we know tech
 * we know what works and what doesn't
-* So is data regulated like tech?
+* So is data just tech?
+    * so we know how to handle it
 * What is data?
 
 ---
@@ -321,6 +342,7 @@ But mostly the **Government**
 # Presenter Notes
 
 * Naaa, that isn't right
+
 ---
 
 # Short philosophical detour 
@@ -340,7 +362,7 @@ But mostly the **Government**
 * Your mind "runs" on hardware (Body and Brain)
 * How do you access the world?
     * Your hardware creates data from the world (somehow)
-    * That data often lies
+    * data is not the world because data often lies
 * "You" only have data
 
 ---
@@ -368,6 +390,8 @@ But mostly the **Government**
 # Presenter Notes
 
 * What is a "33"? An age? A length? A price?
+* wax figures (Madame Toussaud's)
+    * what you do with an object in front of you depends on your interpretation
 
 ---
 
@@ -430,9 +454,8 @@ You may not **publish** video or audio recordings of others without explicit **c
 # GLΛSS rules (social)
 
 * Don't be an ass. 
-* If people ask you to deactivate them, do so.
+* If people ask you to deactivate, do so.
 * Be transparent with what you do
-* Respect your fellow earthlings
 * Don't assume
 * Don't be an ass.
 
@@ -450,6 +473,14 @@ You may not **publish** video or audio recordings of others without explicit **c
 * regulation seems simple but tends to go overboard
 * GLΛSS is nothing new, it just makes something visible
 * Cyborgisation has been going on for ages and gains more speed
+* Problem: right now no braod consensus
+
+# Presenter Notes
+
+* Regulation is important but can get out of hand
+* The Glass Debate is just the first fight
+    * a fight especially this subculture is gonna deal with first
+* The Future is there but not evenly distributed
 
 ---
 
