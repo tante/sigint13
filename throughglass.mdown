@@ -7,8 +7,13 @@
 * blog [http://tante.cc](http://tante.cc)
 * twitter [@tante](http://twitter.com/tante)
 * scientist
-* likes monkeys 
+* #(post)privacy 
 <img src="images/tante.jpg" style="float:right">
+
+# Presenter Notes
+
+* I work on how the digital world changes us
+* And I have a subtitle!
 
 ---
 
