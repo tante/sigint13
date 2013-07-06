@@ -7,7 +7,7 @@
 * blog [http://tante.cc](http://tante.cc)
 * twitter [@tante](http://twitter.com/tante)
 * scientist
-* #(post)privacy 
+* \#(post)privacy 
 <img src="images/tante.jpg" style="float:right">
 
 # Presenter Notes
@@ -22,7 +22,7 @@
 # Presenter Notes
 
 * Subtitle
-* Talk: How should we regulate tech and data?
+* Talk: How should we regulate tech and the usage of data?
 
 ---
 
@@ -32,6 +32,7 @@
 
 * Not a popular topic really
 * You tend to piss someone off
+* takes away options/freedom
 
 ---
 
